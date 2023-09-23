@@ -20,4 +20,4 @@ if (truelove < 10) or (truelove > 90):
 elif (truelove >= 40) and (truelove <= 50):
     print(f"Love score for {name1} and {name2} is {truelove}, you are alright together.")
 else:
-    print(f"Love score for {name1} and {name2} is {truelove}, and you make up a good couple with working for your relationship lil.")
+    print(f"Love score for {name1} and {name2} is {truelove}, and you make up a good loved ones with working for your relationship lil.")
