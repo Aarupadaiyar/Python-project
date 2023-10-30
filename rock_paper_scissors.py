@@ -44,3 +44,4 @@ elif human==computer:
   print("It is a tie!")
 else:
   print("You entered a invalid number so hell get out! you lose!")
+Print("Try one more time dude :)")
